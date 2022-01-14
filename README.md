@@ -26,4 +26,4 @@ quit: The quit command is used by the user to exit the game
 4) Finnaly I created the driver class. I created a static Location variable named currLocation, a static ContainerItem varaiable named myInventory and added a main() method to my driver class. I then assigned my currLocation variable to point at a new Location Object that I used to test my commands. I then created a Scanner object that reads its data from the standard  input stream(System.in). I then prompt the user to enter an command. The command can be any of the functionalities listed above. I then use a switch-case structure to jump to the appropriate cases for the commands listed above. 
 
 # Tools Used
- - Java - Object Oriented Programming - Encapsulation - Inheritance - ArrayLists - HashMaps - Switch-case statements
+     - Java - Object Oriented Programming - Encapsulation - Inheritance - ArrayLists - HashMaps - Switch-case statements
